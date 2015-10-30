@@ -1,0 +1,39 @@
+body {
+	
+}
+
+#screen {
+	border: 1px solid;
+	width: 82vw;
+	height: 15vw;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	font-size: 14vw;
+	text-align: right;
+	padding: 5px;
+	background-color: black;
+	color: white;
+}
+
+.button {
+	border: 1px solid;
+	width: 20vw;
+	height: 15vw;
+	border-radius: 10px;
+	display: inline-block;
+	font-size: 14vw;
+	text-align: center;
+	margin-bottom: 3px;
+}
+
+#subtract, #add, #multiply, #divide, #equal {
+	background-color: orange;
+}
+
+#c, #plusNegative, #percentage {
+	background-color: grey;
+}
+
+#delete, #zero, #decimalPoint, #one, #two, #three, #four, #five, #six, #seven, #eight, #nine {
+	background-color: gainsboro;
+}
